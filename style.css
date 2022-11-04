@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(235, 122, 122);
+    border-radius: 30px;
+    
+}
+
+
+.navbar h1{
+    color: white;
+    padding: 12px 75px;
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(235, 122, 122);
+    border-radius: 30px;
+
+}
+.button,input {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 16px;
+    border-radius: 36px;
+  }
